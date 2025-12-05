@@ -1,4 +1,6 @@
 # Wireshark-Network-Traffic-Analysis
+This project contails screenshots and analysis from my Wireshark network traffic labs. It demonstrates packet inspection, Tcp handshakes, and DNS queries with identifying information removed for privacy
+Analysis of Captured network traffic using Wireshark
 Analysis of captured  network traffic using Wireshark. Includes packet inspection, filtering, protocol analysis, and identification of anomalies
 Below are sample screenshots from my Wireshark packet analysis( Identifying information has been removed for privacy.)
 Packet Inspection Example
