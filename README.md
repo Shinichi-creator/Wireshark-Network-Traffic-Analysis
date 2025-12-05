@@ -16,3 +16,12 @@ This screenshot shows a complete TCP three way handshake(SYN, SYN-ACK, ACK), whi
 DNS Query Example
 ![DNS Query](https://github.com/Shinichi-creator/Wireshark-Network-Traffic-Analysis/blob/main/Screenshot%202025-12-04%20231012.png?raw=true)
 The screenshot shows DNS traffic where my device(source IP) is sending DNS queries to the DNS server (destination IP). Each packet includes the DNS server IP address as the destination for the request, and the server returns a response back to my device.
+
+# Skills Demonstrated
+Packet inspection using Wireshark
+Reading and interpreting network protocols (TCP, DNS, ARP, ICMP)
+Identifying TCP three-way handshake (SYN, SYN-ACK, ACK)
+Analyzing DNS queries and responses
+Filtering and isolating packet traffic
+Understanding source/destination IP and MAC addresses
+Basic network troubleshooting and traffic analysis
